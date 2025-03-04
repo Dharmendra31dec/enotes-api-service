@@ -1,0 +1,18 @@
+git init
+
+git status
+
+git add .
+
+git commit -m "initial commit"
+
+git branch
+
+git brance dev
+
+git checkout dev
+
+git remote add origin https://github.com/Dharmendra31dec/enotes-api-service.git
+
+git push -u origin dev
+
